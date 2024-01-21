@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preciouspep
+- 👋 Hi, I’m Ohaegbulam precious and i'm a statistician and a data analyst with a passion for turning raw data into actionable insights.
 - 👀 I’m interested in meeting new friends and documenting my journey into tech
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on everything and anything!

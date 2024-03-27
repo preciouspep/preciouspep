@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 💞️ I’m looking to collaborate on everything and anything!
 - 📫 FInd my articles here on [Medium](https://medium.com/@ohaegbulamprecious) 
-- 👀 View my projects at [Portfolio](https://www.datascienceportfol.io/preciousohaegb)
+- 👀 View my projects at [Portfolio](https://sites.google.com/view/ohaegbulam-precious/home)
 - 🌱 Reach me here [Email](mailto:ohaegbulamprecious@gmail.com)
 
 📫 Connect with me via [Twitter](https://twitter.com/Itz_pep) [Medium](https://medium.com/@ohaegbulamprecious) [Linkedin](www.linkedin.com/in/ohaegbulam-precious-ab67a3242)

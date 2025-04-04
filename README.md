@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ohaegbulam precious and i'm a statistician, data analyst, and aspiring data scientist with a
+👋 Hi, I’m Ohaegbulam precious and i'm a statistician, data analyst, and aspiring data scientist with a
 passion for turning raw data into meaningful and actionable insights. I am a result-driven
 individual and a team player who embraces change quickly.
 
